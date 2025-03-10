@@ -8,9 +8,6 @@ export function middleware(request: NextRequest) {
     if(path ==='/verifyemail'){
       return
     }
-    // if(path ==='/'){
-    //   return
-    // }
     if(path ==='/resetpassword'){
       return
     }
@@ -20,7 +17,8 @@ export function middleware(request: NextRequest) {
     if(path ==='/prompt'){
       return
     }
-
+    if(path == 'game/chess/history/game')
+      return NextResponse.redirect(new URL('/login', request.nextUrl))
     if(isPublicPath && token){
     return NextResponse.redirect(new URL('/', request.nextUrl))
     }

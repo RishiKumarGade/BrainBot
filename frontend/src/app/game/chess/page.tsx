@@ -33,6 +33,13 @@ export default function ChessGamePage() {
           <h2 className="text-xl font-semibold mb-4">Learn Strategy with Mini-Games</h2>
           <p className="text-gray-600">Master chess tactics through interactive challenges. Perfect for beginners and advanced players alike!</p>
         </Link>
+        <Link
+          href="/game/chess/history/game"
+          className="block bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+        >
+          <h2 className="text-xl font-semibold mb-4">Review your Past Games</h2>
+          <p className="text-gray-600">Learn through your mistakes and Upgrade</p>
+        </Link>
       </div>
 
       <div className="mt-12 text-center text-gray-600 max-w-2xl mx-auto">
